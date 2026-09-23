@@ -42,6 +42,15 @@ Aim for big gains and accept big swings. Just don't lose all of it.
 - Take profit: at +40% on a stock or +100% on an option, sell half and let the rest run.
 - Sell when the reason for buying is gone. Rotate money into the strongest idea.
 
+## Owner's summaries
+
+The owner holds the same stocks in their own account (including MU, up ~107%) and may copy trades.
+Don't ask permission, but after each run give them a quick, plain-English summary:
+- For every trade: what, how much, price, and a 1–2 line "why".
+- A one-line call on each stock they hold with us plus MU: hold / add / trim / sell, and why.
+- Key levels (stop, target) so they can set their own alerts.
+- Flag anything urgent at the top (stop hit, big news, earnings coming up).
+
 ## Each run
 
 1. `git pull`, read this file and the last few entries in `journal/`.
