@@ -63,27 +63,34 @@ Every run, pull its positions and quotes and give the owner a SHORT report, not 
 - If nothing is worth reporting, say "Nothing notable" and stop.
 Don't list every holding, and don't save the full table in the journal.
 
-## MU exit watch (owner's main account)
+## Chip stock exit watch (owner's main account)
 
-The owner is a long-term MU holder (avg $525.98, ~+103%). They don't care about a post-earnings dip
-(last time they held through it and it recovered). They want to sell when the real decline starts.
-Don't suggest trimming just because earnings are coming. Check these every run and alert ONLY when one trips:
+The owner holds MU, SNDK, NVDA, AMD, TSM and ASML long-term and doesn't care about dips after earnings
+(held MU through the last one and it recovered). They want to sell when the real decline starts.
+Don't suggest trimming just because earnings are coming. Check every run and alert ONLY when a signal
+trips or is within ~3% of tripping.
 
-Business signals (these usually show up before the price does):
-1. **Guidance rolls over:** next-quarter revenue or gross margin guided flat or down vs this quarter.
-   This is the most important one.
-2. **Memory prices stall:** DRAM/HBM contract prices flat or falling (TrendForce and similar reports).
-3. **Capacity binge:** Micron, Samsung, SK Hynix or CXMT sharply raise capex, which means oversupply 12–18 months out.
-4. **Customers pull back:** hyperscalers cut AI capex, or customer inventories build up.
-5. **Sells off on good news and stays down:** a beat-and-raise that still falls and doesn't recover
-   within ~3 weeks. That's different from last time.
+### Industry signals (these usually show up before prices fall, and hit all six at once)
+1. **AI spending slows:** hyperscalers (MSFT, GOOGL, AMZN, META, ORCL) cut or flatten capex guidance.
+   This is the most important one for NVDA, AMD, TSM and ASML.
+2. **Guidance rolls over:** a company guides next-quarter revenue or gross margin flat or down vs this quarter.
+3. **Chip prices stall:** DRAM, NAND or HBM contract prices flat or falling (hits MU and SNDK first).
+4. **Capacity binge:** memory makers (Micron, Samsung, SK Hynix, CXMT) sharply raise capex, which means
+   oversupply 12–18 months out.
+5. **Orders slow:** ASML bookings fall or TSMC monthly sales slow; these are early warnings for the whole group.
+6. **Sells off on good news and stays down:** a beat-and-raise that still falls and doesn't recover in ~3 weeks.
+7. **Policy shock:** new export restrictions (China), tariffs on chips, or Taiwan risk (TSM especially).
 
-Price levels (as of Sept 24: price ~$1,070, 50-day $934, 20-week $930, 200-day $653;
-summer range $738–$1,168):
-- Weekly close below the 20-week average (~$930): **warning, consider selling 1/3.**
-- Close below the summer lows (~$740–770): **trend broken, consider selling another 1/3.**
-- 50-day average crossing below the 200-day: **cycle likely over.**
-Update these levels as the averages move.
+### Price levels (as of Sept 24, 2026; update as the averages move)
+| Stock | Price | Warning: weekly close below 20-week avg → consider selling 1/3 | Broken: close below 200-day avg → consider selling another 1/3 |
+|---|---|---|---|
+| MU | $1,070 | $930 | $653 (also watch summer lows $740–770) |
+| SNDK | $1,769 | $1,636 | $1,093 |
+| NVDA | $224 | $212 | $199 |
+| AMD | $624 | $498 | $361 |
+| TSM | $451 | $421 | $382 |
+| ASML | $1,734 | $1,720 (**very close**) | $1,519 |
+Final signal for any of them: 50-day average crossing below the 200-day means the cycle is likely over.
 
 ## Each run
 
