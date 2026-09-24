@@ -55,13 +55,13 @@ Don't ask permission, but after each run give them a quick, plain-English summar
 
 The Robinhood connection can also READ the owner's main individual account (account 907207344,
 28 positions, ~$46.5k on Sept 24). Never place orders there. It is not ours to trade.
-Every run, pull its positions (get_equity_positions) and quotes, and write a short report:
-- Account value and today's change; total gain vs cost.
-- Anything urgent: a holding down >5% today, big news, an earnings date within 7 days.
-- Concentration: memory (MU + SNDK) and quantum (IONQ, QBTS, RGTI, QTUM) are the big themed bets.
-- 3–6 one-line calls (hold / add / trim / sell and why) on the holdings that matter today.
-  Skip the boring ones (VOO, VXUS, SCHD) unless something happened.
-Save the full table in the journal entry; keep the chat summary short.
+Every run, pull its positions and quotes and give the owner a SHORT report, not a stock-by-stock review:
+- One line: account value, today's change, total gain vs cost.
+- Only news worth reporting: a holding moving >5% today, major company news (earnings, guidance,
+  lawsuits/regulators, big analyst moves, M&A), earnings within 7 days, or a big risk building
+  (e.g. memory stocks MU + SNDK into MU earnings). One line each, with a suggested action if any.
+- If nothing is worth reporting, say "Nothing notable" and stop.
+Don't list every holding, and don't save the full table in the journal.
 
 ## Each run
 
