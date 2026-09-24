@@ -63,6 +63,28 @@ Every run, pull its positions and quotes and give the owner a SHORT report, not 
 - If nothing is worth reporting, say "Nothing notable" and stop.
 Don't list every holding, and don't save the full table in the journal.
 
+## MU exit watch (owner's main account)
+
+The owner is a long-term MU holder (avg $525.98, ~+103%). They don't care about a post-earnings dip
+(last time they held through it and it recovered). They want to sell when the real decline starts.
+Don't suggest trimming just because earnings are coming. Check these every run and alert ONLY when one trips:
+
+Business signals (these usually show up before the price does):
+1. **Guidance rolls over:** next-quarter revenue or gross margin guided flat or down vs this quarter.
+   This is the most important one.
+2. **Memory prices stall:** DRAM/HBM contract prices flat or falling (TrendForce and similar reports).
+3. **Capacity binge:** Micron, Samsung, SK Hynix or CXMT sharply raise capex, which means oversupply 12–18 months out.
+4. **Customers pull back:** hyperscalers cut AI capex, or customer inventories build up.
+5. **Sells off on good news and stays down:** a beat-and-raise that still falls and doesn't recover
+   within ~3 weeks. That's different from last time.
+
+Price levels (as of Sept 24: price ~$1,070, 50-day $934, 20-week $930, 200-day $653;
+summer range $738–$1,168):
+- Weekly close below the 20-week average (~$930): **warning, consider selling 1/3.**
+- Close below the summer lows (~$740–770): **trend broken, consider selling another 1/3.**
+- 50-day average crossing below the 200-day: **cycle likely over.**
+Update these levels as the averages move.
+
 ## Each run
 
 1. `git pull`, read this file and the last few entries in `journal/`.
