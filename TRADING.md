@@ -51,6 +51,18 @@ Don't ask permission, but after each run give them a quick, plain-English summar
 - Key levels (stop, target) so they can set their own alerts.
 - Flag anything urgent at the top (stop hit, big news, earnings coming up).
 
+## Owner's main account (read-only, never trade it)
+
+The Robinhood connection can also READ the owner's main individual account (account 907207344,
+28 positions, ~$46.5k on Sept 24). Never place orders there. It is not ours to trade.
+Every run, pull its positions (get_equity_positions) and quotes, and write a short report:
+- Account value and today's change; total gain vs cost.
+- Anything urgent: a holding down >5% today, big news, an earnings date within 7 days.
+- Concentration: memory (MU + SNDK) and quantum (IONQ, QBTS, RGTI, QTUM) are the big themed bets.
+- 3–6 one-line calls (hold / add / trim / sell and why) on the holdings that matter today.
+  Skip the boring ones (VOO, VXUS, SCHD) unless something happened.
+Save the full table in the journal entry; keep the chat summary short.
+
 ## Each run
 
 1. `git pull`, read this file and the last few entries in `journal/`.
