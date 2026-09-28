@@ -81,15 +81,15 @@ trips or is within ~3% of tripping.
 6. **Sells off on good news and stays down:** a beat-and-raise that still falls and doesn't recover in ~3 weeks.
 7. **Policy shock:** new export restrictions (China), tariffs on chips, or Taiwan risk (TSM especially).
 
-### Price levels (as of Sept 24, 2026; update as the averages move)
+### Price levels (20-week avgs refreshed Sept 28, 2026; update as the averages move)
 | Stock | Price | Warning: weekly close below 20-week avg → consider selling 1/3 | Broken: close below 200-day avg → consider selling another 1/3 |
 |---|---|---|---|
 | MU | $1,070 | $930 | $653 (also watch summer lows $740–770) |
-| SNDK | $1,769 | $1,636 | $1,093 |
+| SNDK | $1,686 | $1,647 (**2% away**) | $1,093 |
 | NVDA | $224 | $212 | $199 |
 | AMD | $624 | $498 | $361 |
 | TSM | $451 | $421 | $382 |
-| ASML | $1,734 | $1,720 (**very close**) | $1,519 |
+| ASML | $1,740 | $1,728 (**<1% away**) | $1,519 |
 Final signal for any of them: 50-day average crossing below the 200-day means the cycle is likely over.
 
 ## Each run
