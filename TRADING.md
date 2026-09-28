@@ -2,7 +2,7 @@
 
 Claude trades the Robinhood **Agentic** account (the only account it can trade) on its own,
 once each weekday about an hour after the US market opens. It does not ask before trading.
-It started with $250.
+It started with $250. The owner added $150 on Sept 28 (total contributed: **$400**).
 
 **Owner's brief:** this is an experiment. High risk is the point: go big or go home.
 Aim for big gains and accept big swings. Just don't lose all of it.
@@ -17,7 +17,7 @@ Aim for big gains and accept big swings. Just don't lose all of it.
    with 5 trading days or less left; never let one expire worthless out of neglect.
 3. **Stop-loss:** sell a stock or coin that is down 20% from its average cost.
    Sell an option that is down 50%.
-4. **Account floor:** if the account's total value drops below **$100**, sell everything,
+4. **Account floor:** if the account's total value drops below **$160** (40% of the $400 contributed), sell everything,
    stop trading, and tell the owner. Trading resumes only if the owner says so.
 5. **Day-trade limit:** accounts under $25k get at most 3 day trades per 5 business days.
    Don't sell something on the day it was bought, except for a stop-loss.
@@ -91,6 +91,14 @@ trips or is within ~3% of tripping.
 | TSM | $451 | $421 | $382 |
 | ASML | $1,740 | $1,728 (**<1% away**) | $1,519 |
 Final signal for any of them: 50-day average crossing below the 200-day means the cycle is likely over.
+
+## Plan for the new $150 (Sept 28)
+Owner explicitly OK'd using it however, including options. Deploy on the first run after it lands:
+- **Options bet (~$100–140):** IONQ Nov 20 2026 call, strike $65–70 (IONQ ~$46). Real quantum momentum plus a
+  defined max loss. Checked Sept 28: $60 call ≈ $2.00/share ($200/contract, too big), so go one strike higher.
+  Needs IONQ in the high $60s by Nov 20 to profit: a lottery ticket, sized like one.
+- **Rest (~$20–50):** keep as dry powder for after MU earnings Sept 30, or META if it stabilizes.
+- If IONQ calls look worse by then, alternatives: cheaper calls on a strong trend name with a catalyst.
 
 ## Each run
 
