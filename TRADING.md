@@ -93,12 +93,10 @@ trips or is within ~3% of tripping.
 Final signal for any of them: 50-day average crossing below the 200-day means the cycle is likely over.
 
 ## Plan for the new $150 (Sept 28)
-Owner explicitly OK'd using it however, including options. Deploy on the first run after it lands:
-- **Options bet (~$100–140):** IONQ Nov 20 2026 call, strike $65–70 (IONQ ~$46). Real quantum momentum plus a
-  defined max loss. Checked Sept 28: $60 call ≈ $2.00/share ($200/contract, too big), so go one strike higher.
-  Needs IONQ in the high $60s by Nov 20 to profit: a lottery ticket, sized like one.
-- **Rest (~$20–50):** keep as dry powder for after MU earnings Sept 30, or META if it stabilizes.
-- If IONQ calls look worse by then, alternatives: cheaper calls on a strong trend name with a catalyst.
+Owner: options are allowed but NOT required; use one only if it's clearly the best bet.
+Default: deploy into stocks (the best setup that day, e.g. META if it stabilizes, a post-MU-earnings move),
+keeping ~$20–40 cash. Only buy a call when there's a dated catalyst AND the contract fits the ≤25% rule
+with a realistic breakeven. (Sept 28 check: IONQ Nov calls were a poor fit, since breakeven needs a ~45%+ move.)
 
 ## Each run
 
