@@ -98,6 +98,19 @@ Default: deploy into stocks (the best setup that day, e.g. META if it stabilizes
 keeping ~$20–40 cash. Only buy a call when there's a dated catalyst AND the contract fits the ≤25% rule
 with a realistic breakeven. (Sept 28 check: IONQ Nov calls were a poor fit, since breakeven needs a ~45%+ move.)
 
+## Quantum exit watch (owner's main account)
+Owner (Sept 29) no longer believes in QBTS, RGTI or QTUM and wants to exit them. IONQ stays.
+Alert the owner (top of the summary) the day any of these trips:
+| Holding | Shares | Avg cost | Sept 29 price | Sell-into-strength target | Give-up level (sell anyway) |
+|---|---|---|---|---|---|
+| QBTS | 39.42 | $23.99 | $16.42 (-32%) | **≥ $18.50** (50-day avg $18.21, last week's high $18.93) | close < $15.80 (Sept low) |
+| RGTI | 15.11 | $21.73 | $15.85 (-27%) | **≥ $17.50** (last week's high $17.66) | close < $14.40 (Sept low) |
+| QTUM | 6.96 | $136.57 | $151.46 (+11%) | in profit: sell any time; flag any day it's ≥ $155 | close < $140 |
+Also alert on: either QBTS or RGTI up ≥ 8% in a day (quantum news spikes fade fast, so sell into them),
+or 4 weeks passing (Oct 27) without a target hit, which means just sell.
+Tax: QBTS + RGTI losses (~$390) can offset gains (e.g. MU trims). Don't rebuy within 30 days (wash sale).
+Remove this section once the owner confirms they've sold.
+
 ## Each run
 
 1. `git pull`, read this file and the last few entries in `journal/`.
